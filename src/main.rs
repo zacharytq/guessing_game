@@ -1,5 +1,9 @@
-use std::io
+use std::io;
 
 fn main() {
-    println!()
+    println!("Guess the Number!");
+
+    println!("Please input your guess.");
+
+    let mut guess = 
 }
